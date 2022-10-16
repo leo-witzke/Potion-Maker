@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: af76c2dca20aa4b7eac9e541afcd11a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Flask: {fileID: 65078903187477732, guid: 0dc4e4082ce3b4a9188e345801d4bfe1, type: 3}
+  - Beaker: {fileID: 2570504577378616364, guid: 641b599e9136b461a8d40cb5b77d4464, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
